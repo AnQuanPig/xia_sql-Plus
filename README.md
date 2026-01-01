@@ -34,7 +34,7 @@
 <img width="1498" height="704" alt="image" src="https://github.com/user-attachments/assets/ccbff255-eca5-47c9-875d-121d959505eb" />
 
 
-#### 4. **响应分析系统**
+#### 4. **友好的响应分析**
 
 - 📊 **长度变化检测**：精确计算响应包长度变化
 - 📊 **差值显示策略**：
@@ -61,7 +61,7 @@
 
 
 
-#### 76. **Payload 自定义管理**
+#### 6. **Payload 自定义管理**
 
 - 📂 **外部文件支持**：从 `~/xlzsql.txt` 加载自定义 payload
 - 📂 **内置默认 payload**：8 条基础 SQL 测试 payload
