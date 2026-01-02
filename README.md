@@ -74,8 +74,11 @@
 <img width="1864" height="885" alt="image" src="https://github.com/user-attachments/assets/133d9a9c-ea41-4263-9181-8d7ddb9ce78f" />
 
 ## 最新版本
- 当前最新版本为 V1.6.5.2，有兴趣的师傅可以联系：XiLZ-B
- <img width="1899" height="885" alt="image" src="https://github.com/user-attachments/assets/8f0a1649-1a27-4cea-bd02-c35614a4d56c" />
+ 当前最新版本为 V1.6.6，有兴趣的师傅可以联系：XiLZ-B
+<img width="1894" height="893" alt="image" src="https://github.com/user-attachments/assets/fbbcd13e-24a6-47fa-826e-8bb7d9c6724c" />
+<img width="1889" height="890" alt="image" src="https://github.com/user-attachments/assets/d6491378-d95f-4d6c-9c18-30b0a26dde47" />
+<img width="1153" height="495" alt="image" src="https://github.com/user-attachments/assets/44af5e70-a7cb-468d-bb12-d1a7f0eed717" />
+
 
 
 
