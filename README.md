@@ -1,6 +1,8 @@
 ## Xia SQL Plus 公开终极版 V1.5.1x 
 ## 交流群
-<img width="315" height="289" alt="image" src="https://github.com/user-attachments/assets/1977ad0c-d5cd-45d4-9d5b-acf030a0f261" />
+<img width="315" height="289" alt="image" src="https://github.com/user-attachments/assets/1977ad0c-d5cd-45d4-9d5b-acf030a0f261" /> <img width="280" height="250" alt="image" src="https://github.com/user-attachments/assets/c6c6b351-da0c-4b76-895b-b3815a753a9c" />
+
+
 
 
 ### 插件介绍
